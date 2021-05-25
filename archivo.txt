@@ -1,4 +1,4 @@
-Hola mundo
+
 Primer practica git 
 Aplicaciones web
 Grupo: C
