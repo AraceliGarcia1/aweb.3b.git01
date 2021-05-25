@@ -1,6 +1,10 @@
 Primer practica git con GitHub
 Aplicaciones web
-Grupo: 3C
+Grupo: 3C -Matutino
 Carrera: Tecnologias de la informacion
 Area: Desarrollo de software multiplatforma
 Turno: Matutino
+Docente: José Christian Narváez Figueroa 
+Objetivo materia: Desarrollar aplicaciones ue puedan ser desplegadas en internet
+Competecias: Algun texto mas para rellenar y que se visualice el cambio
+
