@@ -1,4 +1,4 @@
-Primer practica git 
+Primer practica git con GitHub
 Aplicaciones web
 Grupo: 3C
 Carrera: Tecnologias de la informacion
